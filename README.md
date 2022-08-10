@@ -1,4 +1,4 @@
-### LyonAri's
+## LyonAri's
 
 ### 머신러닝 클래스
 내용 : 머신러닝 수업 내용
@@ -14,6 +14,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently a college student.
 - 🌱 I’m currently learning about machine learning.
 - 👯 I’m looking to collaborate on ...
@@ -22,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
