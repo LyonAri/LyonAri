@@ -9,6 +9,8 @@
 내용 : 다양한 데이터 셋을 기본 EDA부터 기본 모델까지 만들어보기
 
 해당 저장소 [이동](https://github.com/LyonAri/MyDataAnalysis)
+  * IRIS
+  * Wine Quality
 
 
 <!--
