@@ -1,11 +1,11 @@
 ## LyonAri's
 
-### * 머신러닝 클래스
+* ### 머신러닝 클래스
 내용 : 머신러닝 수업 내용
 
 해당 저장소 [이동](https://github.com/LyonAri/ML_LIB_CLASS)
 
-### * 데이터 분석해 보기
+* ### 데이터 분석해 보기
 내용 : 다양한 데이터 셋을 기본 EDA부터 기본 모델까지 만들어보기
 
 해당 저장소 [이동](https://github.com/LyonAri/MyDataAnalysis)
